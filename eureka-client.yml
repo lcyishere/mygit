@@ -9,3 +9,5 @@ spring:
     name: client
 env:
   dev
+label:
+  release
